@@ -4,243 +4,921 @@
   "currency": "USD",
   "totalSKUs": 22,
   "primaryFlavor": "Clean Mint",
-
   "lines": {
     "mouthwash": {
       "description": "Core product category. Dual-chamber activated system. All mouthwashes use zinc ion technology.",
       "products": [
         {
           "sku": "SM-ORIG-16",
-          "name": "SmartMouth™ Original Activated Mouthwash",
+          "name": "SmartMouth\u2122 Original Activated Mouthwash",
           "size": "16oz",
           "price": 10.99,
           "line": "Original",
           "flavor": "Clean Mint",
           "keyBenefit": "Baseline 24-hour fresh breath, eliminates VSCs",
           "alcohol": false,
-          "highlights": ["Zinc ion technology", "24-hour protection", "2 rinses/day"]
+          "highlights": [
+            "Zinc ion technology",
+            "24-hour protection",
+            "2 rinses/day"
+          ],
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-original/original-16oz_01_Untitled-design-1-5.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Untitled-design-1-5.png?v=1773969460",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-16oz-scaled.jpg?v=1773969459",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-16oz_03_3-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/3-SmartMouth-Original-Mouthwash-16oz-scaled.jpg?v=1773969459",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled.jpg?v=1773969459",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-16oz_05_5-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/5-SmartMouth-Original-Mouthwash-16oz-scaled.jpg?v=1773969459",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled.jpg?v=1773969459",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled.jpg?v=1773969459",
+              "position": 7
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-original-activated-mouthwash-16oz"
         },
         {
           "sku": "SM-ORIG-32",
-          "name": "SmartMouth™ Original Activated Mouthwash",
+          "name": "SmartMouth\u2122 Original Activated Mouthwash",
           "size": "32oz",
           "price": 19.99,
           "line": "Original",
           "flavor": "Clean Mint",
-          "keyBenefit": "Baseline 24-hour fresh breath — family size",
-          "alcohol": false
+          "keyBenefit": "Baseline 24-hour fresh breath \u2014 family size",
+          "alcohol": false,
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-original/original-32oz_01_SM-OR-P-AZKHQ-US-ISP-scaled.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-OR-P-AZKHQ-US-ISP-scaled.png?v=1773969501",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-32oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_54c5fe92-36a9-463c-8176-bc2e639bf938.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-16oz-scaled_54c5fe92-36a9-463c-8176-bc2e639bf938.jpg?v=1773969501",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-32oz_03_3-SmartMouth-Original-Mouthwash-32oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/3-SmartMouth-Original-Mouthwash-32oz-scaled.jpg?v=1773969501",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-32oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_d44b51b3-b441-4062-96ae-46d22165dc26.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_d44b51b3-b441-4062-96ae-46d22165dc26.jpg?v=1773969501",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-32oz_05_5-SmartMouth-Original-Mouthwash-16oz-scaled_6b5b91fa-8c80-4b97-9161-a751e2d41b7f.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/5-SmartMouth-Original-Mouthwash-16oz-scaled_6b5b91fa-8c80-4b97-9161-a751e2d41b7f.jpg?v=1773969501",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-32oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_319ca988-6c02-49ec-9f9b-80f318f20f4f.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_319ca988-6c02-49ec-9f9b-80f318f20f4f.jpg?v=1773969501",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-32oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_c589ad5b-b00b-49f9-ad35-23e088edbb2e.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_c589ad5b-b00b-49f9-ad35-23e088edbb2e.jpg?v=1773969501",
+              "position": 7
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-original-activated-mouthwash-32oz"
         },
         {
           "sku": "SM-CLIN-16",
-          "name": "SmartMouth™ Clinical Activated Mouthwash",
+          "name": "SmartMouth\u2122 Clinical Activated Mouthwash",
           "size": "16oz",
           "price": 13.99,
           "line": "Clinical",
           "flavor": "Clean Mint",
           "keyBenefit": "Enhanced formula for more advanced bad breath concerns",
           "alcohol": false,
-          "highlights": ["Stronger zinc ion concentration", "Plaque and gingivitis reduction", "Dentist recommended"]
+          "highlights": [
+            "Stronger zinc ion concentration",
+            "Plaque and gingivitis reduction",
+            "Dentist recommended"
+          ],
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-16oz_01_Untitled-design-1-4.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Untitled-design-1-4.png?v=1773969462",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_a5c48591-2905-4907-9626-fffe25f816c3.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-16oz-scaled_a5c48591-2905-4907-9626-fffe25f816c3.jpg?v=1773969462",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-16oz_03_SM-AR-P-KWLAVB-US-ISP-1-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-AR-P-KWLAVB-US-ISP-1-scaled.jpg?v=1773969462",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_a2608ec1-7759-4a9b-a3b6-66bbb0da5f7e.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_a2608ec1-7759-4a9b-a3b6-66bbb0da5f7e.jpg?v=1773969462",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-16oz_05_SM-P-ULWYWH-US-ISP-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-P-ULWYWH-US-ISP-scaled.jpg?v=1773969462",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_accd8b4d-7c8b-484a-8c9d-ab414833a5a2.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_accd8b4d-7c8b-484a-8c9d-ab414833a5a2.jpg?v=1773969462",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_62f3a8c8-92db-4b01-b917-fdbabdcd74da.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_62f3a8c8-92db-4b01-b917-fdbabdcd74da.jpg?v=1773969462",
+              "position": 7
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-clinical-activated-mouthwash-16oz"
         },
         {
           "sku": "SM-CLIN-32",
-          "name": "SmartMouth™ Clinical Activated Mouthwash",
+          "name": "SmartMouth\u2122 Clinical Activated Mouthwash",
           "size": "32oz",
           "price": 24.99,
           "line": "Clinical",
           "flavor": "Clean Mint",
-          "keyBenefit": "Clinical formula — family/long-term use size",
-          "alcohol": false
+          "keyBenefit": "Clinical formula \u2014 family/long-term use size",
+          "alcohol": false,
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-32oz_01_Untitled-design-1-1-scaled_95061bdd-044d-4e84-911a-45a541e45397.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Untitled-design-1-1-scaled_95061bdd-044d-4e84-911a-45a541e45397.png?v=1773969503",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-32oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_07fe1092-bded-4b11-bfeb-5688426feb70.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-16oz-scaled_07fe1092-bded-4b11-bfeb-5688426feb70.jpg?v=1773969503",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-32oz_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_2b100567-3874-4a31-8752-c537446e73e7.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_2b100567-3874-4a31-8752-c537446e73e7.jpg?v=1773969503",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-32oz_04_5-SmartMouth-Original-Mouthwash-16oz-scaled_0fb48409-b17e-4211-be40-b1e06dad760e.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/5-SmartMouth-Original-Mouthwash-16oz-scaled_0fb48409-b17e-4211-be40-b1e06dad760e.jpg?v=1773969503",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-32oz_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_160e4ff1-f74c-492f-a8fe-cbb53fc2b9f6.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_160e4ff1-f74c-492f-a8fe-cbb53fc2b9f6.jpg?v=1773969503",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-32oz_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_b7dd33e9-b1a2-46e7-ac6b-35959888b158.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_b7dd33e9-b1a2-46e7-ac6b-35959888b158.jpg?v=1773969503",
+              "position": 6
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-clinical-activated-mouthwash-32oz"
         },
         {
           "sku": "SM-CLIN-DDS",
-          "name": "SmartMouth™ Clinical DDS Oral Rinse",
+          "name": "SmartMouth\u2122 Clinical DDS Oral Rinse",
           "size": "16oz",
           "price": null,
-          "priceNote": "Professional/Rx channel — contact dental partners",
+          "priceNote": "Professional/Rx channel \u2014 contact dental partners",
           "line": "Clinical DDS",
           "flavor": "Clean Mint",
           "keyBenefit": "Prescription-strength. Outperformed chlorhexidine in clinical trials for staining, taste, and patient compliance.",
           "alcohol": false,
-          "channel": "Dental professional only — partners.smartmouth.com",
-          "highlights": ["Outperformed chlorhexidine (study: Oral Health and Preventive Dentistry)", "Less tooth staining than CHX", "Higher patient compliance"]
+          "channel": "Dental professional only \u2014 partners.smartmouth.com",
+          "highlights": [
+            "Outperformed chlorhexidine (study: Oral Health and Preventive Dentistry)",
+            "Less tooth staining than CHX",
+            "Higher patient compliance"
+          ]
         },
         {
           "sku": "SM-DRY-16",
-          "name": "SmartMouth™ Dry Mouth Activated Mouthwash",
+          "name": "SmartMouth\u2122 Dry Mouth Activated Mouthwash",
           "size": "16oz",
           "price": 11.99,
           "line": "Specialized",
           "flavor": "Clean Mint",
           "keyBenefit": "Eliminates bad breath + relieves dry mouth symptoms",
           "alcohol": false,
-          "targetCondition": "Dry mouth (xerostomia) — often caused by medications, aging, or medical conditions"
+          "targetCondition": "Dry mouth (xerostomia) \u2014 often caused by medications, aging, or medical conditions",
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-16oz_01_SmartMouth-Dry-Mouth-Mouthwash-oz-scaled-1-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SmartMouth-Dry-Mouth-Mouthwash-oz-scaled-1-scaled.jpg?v=1773969464",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_957c5506-6a09-4681-9e4e-cadc83270ceb.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-16oz-scaled_957c5506-6a09-4681-9e4e-cadc83270ceb.jpg?v=1773969464",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-16oz_03_SM-DR-P-W-FEH-US-ISP-1-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-DR-P-W-FEH-US-ISP-1-scaled.jpg?v=1773969464",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_82de28c3-2518-4f89-91d8-d403a47443fd.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_82de28c3-2518-4f89-91d8-d403a47443fd.jpg?v=1773969464",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-16oz_05_SM-DR-P-W-FEH-US-ISP-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-DR-P-W-FEH-US-ISP-scaled.jpg?v=1773969463",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_60b09d0f-9eaf-42cf-84d8-bb93bb43d46f.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_60b09d0f-9eaf-42cf-84d8-bb93bb43d46f.jpg?v=1773969464",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_e629e035-5f76-4838-9252-d01dfca86955.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_e629e035-5f76-4838-9252-d01dfca86955.jpg?v=1773969464",
+              "position": 7
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-dry-mouth-activated-mouthwash-16oz"
         },
         {
           "sku": "SM-SORE-16",
-          "name": "SmartMouth™ Mouth Sore Activated Mouthwash",
+          "name": "SmartMouth\u2122 Mouth Sore Activated Mouthwash",
           "size": "16oz",
           "price": 12.99,
           "line": "Specialized",
           "flavor": "Clean Mint",
           "keyBenefit": "Fresh breath + mouth sore healing support",
           "alcohol": false,
-          "targetCondition": "Canker sores, post-procedure healing, chemotherapy patients"
+          "targetCondition": "Canker sores, post-procedure healing, chemotherapy patients",
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-mouth-sore/mouth-sore-16oz_01_1-SmartMouth-Mouth-Sore-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Mouth-Sore-Mouthwash-16oz-scaled.jpg?v=1773969474",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-mouth-sore/mouth-sore-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_d2909c25-15ec-4893-b8cd-0b8f51eb4d87.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-16oz-scaled_d2909c25-15ec-4893-b8cd-0b8f51eb4d87.jpg?v=1773969474",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-mouth-sore/mouth-sore-16oz_03_Untitled-design_9712ccf1-9e47-4d10-94f7-b19cdce22b75.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Untitled-design_9712ccf1-9e47-4d10-94f7-b19cdce22b75.png?v=1773969474",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-mouth-sore/mouth-sore-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_82a36652-8dfa-4ca7-ab10-d453ee89ef74.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_82a36652-8dfa-4ca7-ab10-d453ee89ef74.jpg?v=1773969474",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-mouth-sore/mouth-sore-16oz_05_Untitled-design-1-2.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Untitled-design-1-2.png?v=1773969474",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-mouth-sore/mouth-sore-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_0a807dfd-581b-4776-93c0-f23f73824be0.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_0a807dfd-581b-4776-93c0-f23f73824be0.jpg?v=1773969474",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-mouth-sore/mouth-sore-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_822db73a-5e75-4883-9252-e8a2ddae4683.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_822db73a-5e75-4883-9252-e8a2ddae4683.jpg?v=1773969474",
+              "position": 7
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-mouth-sore-activated-mouthwash-16oz"
         },
         {
           "sku": "SM-GUM-16",
-          "name": "SmartMouth™ Gum Health Activated Mouthwash",
+          "name": "SmartMouth\u2122 Gum Health Activated Mouthwash",
           "size": "16oz",
           "price": 13.99,
           "line": "Specialized",
           "flavor": "Clean Mint",
-          "ingredients": ["Natural aloe"],
+          "ingredients": [
+            "Natural aloe"
+          ],
           "keyBenefit": "Fresh breath + gum health support (anti-inflammatory aloe)",
           "alcohol": false,
-          "targetCondition": "Gingivitis, bleeding gums, early gum disease"
+          "targetCondition": "Gingivitis, bleeding gums, early gum disease",
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-gum-health/gum-health-16oz_01_1-SmartMouth-Gum-Health-Mouthwash-16oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Gum-Health-Mouthwash-16oz-scaled.jpg?v=1773969472",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-gum-health/gum-health-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_c80be3ea-e238-47a2-9209-361c17461859.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-16oz-scaled_c80be3ea-e238-47a2-9209-361c17461859.jpg?v=1773969472",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-gum-health/gum-health-16oz_03_Untitled-design.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Untitled-design.png?v=1773969472",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-gum-health/gum-health-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_733683b2-2737-4aad-b5f5-063f7b004d65.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_733683b2-2737-4aad-b5f5-063f7b004d65.jpg?v=1773969472",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-gum-health/gum-health-16oz_05_SM-HR-P-VGGOVP-US-ISP-1-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-HR-P-VGGOVP-US-ISP-1-scaled.jpg?v=1773969472",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-gum-health/gum-health-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_776e634e-f338-4235-86cc-de23c49ff53b.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_776e634e-f338-4235-86cc-de23c49ff53b.jpg?v=1773969472",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-gum-health/gum-health-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_8181c92d-86d9-4aa3-a68e-006735cc343a.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_8181c92d-86d9-4aa3-a68e-006735cc343a.jpg?v=1773969472",
+              "position": 7
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-gum-health-activated-mouthwash-16oz"
         },
         {
           "sku": "SM-LIP-VIT-16",
-          "name": "SmartMouth™ Advanced Liposomal Vitamin C Mouthwash",
+          "name": "SmartMouth\u2122 Advanced Liposomal Vitamin C Mouthwash",
           "size": "16oz",
           "price": 13.99,
           "line": "Advanced Liposomal",
           "flavor": "Clean Mint",
           "technology": "Liposomal delivery for enhanced absorption",
           "keyBenefit": "Fresh breath + Vitamin C gum support via liposomal technology",
-          "alcohol": false
+          "alcohol": false,
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_01_Vitamin-C.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Vitamin-C.png?v=1773969466",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_02_SM-large.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large.jpg?v=1773969466",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_03_SM-large-1.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1.jpg?v=1773969466",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_04_Vitamin-C.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Vitamin-C.jpg?v=1773969466",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_05_SM-large-1-1.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-1.jpg?v=1773969466",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_06_SM-large-1-2.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-2.jpg?v=1773969466",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_07_6-SmartMouth-Original-Mouthwash-16oz-scaled_0b443eca-c0bf-411f-b0f0-d8cb0becbe64.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_0b443eca-c0bf-411f-b0f0-d8cb0becbe64.jpg?v=1773969466",
+              "position": 7
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_08_SM-large-1-3.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-3.jpg?v=1773969466",
+              "position": 8
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-vitamin-c-1_09_SM-large_02fb199c-af2c-4e00-a937-13d7c6024972.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large_02fb199c-af2c-4e00-a937-13d7c6024972.jpg?v=1773969466",
+              "position": 9
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-advanced-liposomal-vitamin-c-mouthwash-16oz"
         },
         {
           "sku": "SM-LIP-AM-16",
-          "name": "SmartMouth™ Advanced Liposomal Morning Mouthwash",
+          "name": "SmartMouth\u2122 Advanced Liposomal Morning Mouthwash",
           "size": "16oz",
           "price": 13.99,
           "line": "Advanced Liposomal",
           "flavor": "Clean Mint",
           "technology": "Liposomal delivery, AM-optimized formula",
-          "keyBenefit": "Fresh start to the day — morning-specific zinc ion activation",
-          "alcohol": false
+          "keyBenefit": "Fresh start to the day \u2014 morning-specific zinc ion activation",
+          "alcohol": false,
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_01_Morning.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Morning.png?v=1773969468",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_02_SM-large-2.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-2.jpg?v=1773969468",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_03_SM-large-1-6.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-6.jpg?v=1773969468",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_04_Morning.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Morning.jpg?v=1773969468",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_05_SM-large-1-5.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-5.jpg?v=1773969468",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_06_SM-large-1-2_f2e476e9-fbe7-4f40-b057-a1fcb4765cf4.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-2_f2e476e9-fbe7-4f40-b057-a1fcb4765cf4.jpg?v=1773969468",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_07_6-SmartMouth-Original-Mouthwash-16oz-scaled_5d4845dd-1d1b-4bb7-b216-d4873781c622.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_5d4845dd-1d1b-4bb7-b216-d4873781c622.jpg?v=1773969468",
+              "position": 7
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_08_SM-large-1-4.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-4.jpg?v=1773969468",
+              "position": 8
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-morning-16o_09_SM-large_b6eecaa0-fb6f-44cf-82e2-8e40cf898617.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large_b6eecaa0-fb6f-44cf-82e2-8e40cf898617.jpg?v=1773969468",
+              "position": 9
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-advanced-liposomal-morning-mouthwash-16oz"
         },
         {
           "sku": "SM-LIP-PM-16",
-          "name": "SmartMouth™ Advanced Liposomal Evening Mouthwash",
+          "name": "SmartMouth\u2122 Advanced Liposomal Evening Mouthwash",
           "size": "16oz",
           "price": 13.99,
           "line": "Advanced Liposomal",
           "flavor": "Clean Mint",
           "technology": "Liposomal delivery, PM-optimized formula",
-          "keyBenefit": "Overnight protection — extends fresh breath through sleep",
-          "alcohol": false
+          "keyBenefit": "Overnight protection \u2014 extends fresh breath through sleep",
+          "alcohol": false,
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_01_Evening.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Evening.png?v=1773969470",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_02_SM-large-3.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-3.jpg?v=1773969470",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_03_SM-large-1-9.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-9.jpg?v=1773969470",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_04_Evening.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Evening.jpg?v=1773969470",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_05_SM-large-1-7.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-7.jpg?v=1773969470",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_06_SM-large-1-2_703977ca-6b2d-4048-88ad-2a8668c2d0fb.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-2_703977ca-6b2d-4048-88ad-2a8668c2d0fb.jpg?v=1773969470",
+              "position": 6
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_07_6-SmartMouth-Original-Mouthwash-16oz-scaled_4c5cea7b-213e-4a58-90a8-cad4cdb42876.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_4c5cea7b-213e-4a58-90a8-cad4cdb42876.jpg?v=1773969470",
+              "position": 7
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_08_SM-large-1-8.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large-1-8.jpg?v=1773969470",
+              "position": 8
+            },
+            {
+              "file": "brand/assets/images/mouthwash-liposomal/advanced-liposomal-evening-16o_09_SM-large_2c7f0dbf-37d1-47f1-8ee2-ef4781e8a48c.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-large_2c7f0dbf-37d1-47f1-8ee2-ef4781e8a48c.jpg?v=1773969470",
+              "position": 9
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-advanced-liposomal-evening-mouthwash-16oz"
         }
       ]
     },
-
     "toothpaste": {
       "description": "Zinc ion technology extended to toothpaste. Anti-cavity + fresh breath.",
       "products": [
         {
           "sku": "SM-TP-3.4",
-          "name": "SmartMouth™ Anti-Cavity + Zinc Toothpaste",
+          "name": "SmartMouth\u2122 Anti-Cavity + Zinc Toothpaste",
           "size": "3.4oz",
           "price": 7.99,
           "flavor": "Clean Mint",
           "keyBenefit": "Cavity protection + zinc ion fresh breath in one step",
-          "highlights": ["Fluoride cavity protection", "Zinc ion breath protection", "No harsh additives"]
+          "highlights": [
+            "Fluoride cavity protection",
+            "Zinc ion breath protection",
+            "No harsh additives"
+          ],
+          "images": [
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-34_01_1-SmartMouth-Toothpaste-3-4oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Toothpaste-3-4oz-scaled.jpg?v=1773969488",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-34_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine.png?v=1773969488",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-34_03_SM-P-LFGI-O-US-ISP-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-P-LFGI-O-US-ISP-scaled.jpg?v=1773969488",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-34_04_7-SmartMouth-Original-Mouthwash-16oz-scaled_61f135e5-9914-4e56-bb1e-567cc8ab46d0.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_61f135e5-9914-4e56-bb1e-567cc8ab46d0.jpg?v=1773969488",
+              "position": 4
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-anti-cavity-zinc-toothpaste-34oz"
         },
         {
           "sku": "SM-TP-6",
-          "name": "SmartMouth™ Anti-Cavity + Zinc Toothpaste",
+          "name": "SmartMouth\u2122 Anti-Cavity + Zinc Toothpaste",
           "size": "6oz",
           "price": 9.99,
           "flavor": "Clean Mint",
-          "keyBenefit": "Cavity protection + zinc ion fresh breath — larger size"
+          "keyBenefit": "Cavity protection + zinc ion fresh breath \u2014 larger size",
+          "images": [
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-6o_01_1-SmartMouth-Toothpaste-6oz-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Toothpaste-6oz-scaled.jpg?v=1773969492",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-6o_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-5.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-5.png?v=1773969492",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-6o_03_SM-P-LFGI-O-US-ISP-scaled_1a41d1a5-ee15-451a-90d1-b37ce355e4df.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-P-LFGI-O-US-ISP-scaled_1a41d1a5-ee15-451a-90d1-b37ce355e4df.jpg?v=1773969492",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/toothpaste/anti-cavity-zinc-toothpaste-6o_04_7-SmartMouth-Original-Mouthwash-16oz-scaled_4f36439b-44ff-4a70-b5a2-b45729216108.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_4f36439b-44ff-4a70-b5a2-b45729216108.jpg?v=1773969492",
+              "position": 4
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-anti-cavity-zinc-toothpaste-6oz"
         }
       ]
     },
-
     "mints": {
       "description": "On-the-go breath support with dual-action dry mouth relief.",
       "products": [
         {
           "sku": "SM-MINT-DA",
-          "name": "SmartMouth™ Dry Mouth Dual-Action Mints",
+          "name": "SmartMouth\u2122 Dry Mouth Dual-Action Mints",
           "size": "Standard pack",
           "price": 3.99,
           "flavor": "Mint",
           "keyBenefit": "On-the-go dry mouth relief + fresh breath",
-          "targetCondition": "Dry mouth, travel, between-rinse freshness"
+          "targetCondition": "Dry mouth, travel, between-rinse freshness",
+          "images": [
+            {
+              "file": "brand/assets/images/mints/dry-mouth-dual-action-mints_01_1-SmartMouth-Dry-Mouth-Mints-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Dry-Mouth-Mints-scaled.jpg?v=1773969494",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mints/dry-mouth-dual-action-mints_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine_92c81ed6-d652-4f5b-8a3e-f8288e4658c1.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine_92c81ed6-d652-4f5b-8a3e-f8288e4658c1.png?v=1773969495",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mints/dry-mouth-dual-action-mints_03_SM-XM-P-CMUEAT-US-ISP-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-XM-P-CMUEAT-US-ISP-scaled.jpg?v=1773969494",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mints/dry-mouth-dual-action-mints_04_7-SmartMouth-Original-Mouthwash-16oz-scaled_527bb3f0-f03b-481f-a17b-6c54f0000909.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_527bb3f0-f03b-481f-a17b-6c54f0000909.jpg?v=1773969495",
+              "position": 4
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-dry-mouth-dual-action-mints"
         }
       ]
     },
-
     "singlePacks": {
       "description": "Individual-use packs. Great for travel, sampling, or gifting.",
       "products": [
         {
           "sku": "SM-ORIG-SP-10",
-          "name": "SmartMouth™ Original Activated Mouthwash Single Packs",
+          "name": "SmartMouth\u2122 Original Activated Mouthwash Single Packs",
           "count": 10,
           "price": 8.99,
           "line": "Original",
-          "keyBenefit": "Travel-friendly, trial size, hotel amenity use"
+          "keyBenefit": "Travel-friendly, trial size, hotel amenity use",
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-10-ct_01_1-SmartMouth-Original-Single-Packs-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Original-Single-Packs-scaled.jpg?v=1773969476",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-10-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-2.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-2.png?v=1773969476",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-10-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_efa809d3-afbd-4406-b281-7346136b0c36.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_efa809d3-afbd-4406-b281-7346136b0c36.jpg?v=1773969476",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-10-ct_04_SM-P-LOQVUM-US-ISP-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-P-LOQVUM-US-ISP-scaled.jpg?v=1773969476",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-10-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_8532ac4d-ce84-4729-97d7-98f877a16787.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_8532ac4d-ce84-4729-97d7-98f877a16787.jpg?v=1773969476",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-10-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_ffec7c61-48f2-4f0f-8f77-7e62bdae74c3.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_ffec7c61-48f2-4f0f-8f77-7e62bdae74c3.jpg?v=1773969476",
+              "position": 6
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-original-activated-mouthwash-single-packs-10-ct"
         },
         {
           "sku": "SM-ORIG-SP-50",
-          "name": "SmartMouth™ Original Activated Mouthwash Single Packs",
+          "name": "SmartMouth\u2122 Original Activated Mouthwash Single Packs",
           "count": 50,
           "price": 44.99,
           "line": "Original",
-          "keyBenefit": "Bulk travel packs, B2B amenity fulfillment"
+          "keyBenefit": "Bulk travel packs, B2B amenity fulfillment",
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-50-ct_01_Original-Mouthwash-Single-Packs-Count-e1772777998458.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Original-Mouthwash-Single-Packs-Count-e1772777998458.png?v=1773969477",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-50-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-2_8bd4a014-98e0-4a5b-9a78-c9a55bc2ab72.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-2_8bd4a014-98e0-4a5b-9a78-c9a55bc2ab72.png?v=1773969478",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-50-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_68cf910c-4c06-4db1-bed7-d27b5c425e58.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_68cf910c-4c06-4db1-bed7-d27b5c425e58.jpg?v=1773969477",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-50-ct_04_SM-P-LOQVUM-US-ISP-scaled_8329484d-0325-48ac-bf09-2e938e11839b.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-P-LOQVUM-US-ISP-scaled_8329484d-0325-48ac-bf09-2e938e11839b.jpg?v=1773969478",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-50-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_7c71b3a4-1b83-4e46-bec1-4b8ae82dc756.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_7c71b3a4-1b83-4e46-bec1-4b8ae82dc756.jpg?v=1773969478",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-original/original-single-packs-50-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_9daf5468-50eb-4d5c-966c-8cc4364b640a.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_9daf5468-50eb-4d5c-966c-8cc4364b640a.jpg?v=1773969478",
+              "position": 6
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-original-single-packs-50-ct"
         },
         {
           "sku": "SM-CLIN-SP-50",
-          "name": "SmartMouth™ Clinical Activated Mouthwash Single Packs",
+          "name": "SmartMouth\u2122 Clinical Activated Mouthwash Single Packs",
           "count": 50,
           "price": 59.99,
           "line": "Clinical",
-          "keyBenefit": "Clinical single-use, dental office distribution"
+          "keyBenefit": "Clinical single-use, dental office distribution",
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-single-packs-50-ct_01_1-SmartMouth-Clinical-Single-Packs-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Clinical-Single-Packs-scaled.jpg?v=1773969480",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-single-packs-50-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-1.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-1.png?v=1773969481",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-single-packs-50-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_9f19c8a2-554a-43a0-ab79-10ffbf9ea6f8.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_9f19c8a2-554a-43a0-ab79-10ffbf9ea6f8.jpg?v=1773969481",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-single-packs-50-ct_04_SM-ASP-P-BOHPP-US-ISP-1-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-ASP-P-BOHPP-US-ISP-1-scaled.jpg?v=1773969481",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-single-packs-50-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_8951088a-1df5-4a58-814e-7b8db419115a.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_8951088a-1df5-4a58-814e-7b8db419115a.jpg?v=1773969480",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-clinical/clinical-single-packs-50-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_9d4a919e-5d8d-41e2-bee2-f1ff79277899.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_9d4a919e-5d8d-41e2-bee2-f1ff79277899.jpg?v=1773969481",
+              "position": 6
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-clinical-single-packs-50-ct"
         },
         {
           "sku": "SM-DRY-SP-50",
-          "name": "SmartMouth™ Dry Mouth Activated Mouthwash Single Packs",
+          "name": "SmartMouth\u2122 Dry Mouth Activated Mouthwash Single Packs",
           "count": 50,
           "price": 54.99,
           "line": "Dry Mouth",
-          "keyBenefit": "Bulk dry mouth relief packs"
+          "keyBenefit": "Bulk dry mouth relief packs",
+          "images": [
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-single-packs-50-ct_01_1-SmartMouth-Dry-Mouth-Single-Packs-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Dry-Mouth-Single-Packs-scaled.jpg?v=1773969484",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-single-packs-50-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-3.png",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-3.png?v=1773969484",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-single-packs-50-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_ad5a9b6b-7208-486f-9e90-5e81be6773e6.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_ad5a9b6b-7208-486f-9e90-5e81be6773e6.jpg?v=1773969484",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-single-packs-50-ct_04_SM-DSP-P-T-L-RV-US-ISP-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/SM-DSP-P-T-L-RV-US-ISP-scaled.jpg?v=1773969484",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-single-packs-50-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_2423806d-697f-42af-8b20-30c1d56157c2.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_2423806d-697f-42af-8b20-30c1d56157c2.jpg?v=1773969484",
+              "position": 5
+            },
+            {
+              "file": "brand/assets/images/mouthwash-dry-mouth/dry-mouth-single-packs-50-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_8cab3fa8-f7ca-40fd-ba85-bf143325e409.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_8cab3fa8-f7ca-40fd-ba85-bf143325e409.jpg?v=1773969484",
+              "position": 6
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-dry-mouth-single-packs-50-ct"
         }
       ]
     },
-
     "pumpSystems": {
-      "description": "2-bottle pump system — the iconic SmartMouth delivery method. Redesigned 2024: no more assembly, snap-top closures.",
+      "description": "2-bottle pump system \u2014 the iconic SmartMouth delivery method. Redesigned 2024: no more assembly, snap-top closures.",
       "products": [
         {
           "sku": "SM-ORIG-PUMP",
-          "name": "SmartMouth™ Original 2-Bottle Activated Mouthwash System",
+          "name": "SmartMouth\u2122 Original 2-Bottle Activated Mouthwash System",
           "size": "2 bottles",
           "price": 21.99,
           "line": "Original",
           "keyBenefit": "Classic pump delivery system. Satisfying activation experience.",
-          "packaging": "Dual chamber, snap-top closures (redesigned 2024 — no assembly required)"
+          "packaging": "Dual chamber, snap-top closures (redesigned 2024 \u2014 no assembly required)",
+          "images": [
+            {
+              "file": "brand/assets/images/pump-systems/original-2-bottle-system_01_1-SmartMouth-Original-Mouthwash-2-Bottle-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Original-Mouthwash-2-Bottle-scaled.jpg?v=1773969497",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/pump-systems/original-2-bottle-system_02_2-SmartMouth-Original-Mouthwash-2-Bottle-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Original-Mouthwash-2-Bottle-scaled.jpg?v=1773969496",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/pump-systems/original-2-bottle-system_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_51beeb62-0818-48b4-94c4-f2bf7284cdd4.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_51beeb62-0818-48b4-94c4-f2bf7284cdd4.jpg?v=1773969497",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/pump-systems/original-2-bottle-system_04_6-SmartMouth-Original-Mouthwash-16oz-scaled_54da6790-6f33-4d33-b7ca-074003ddb9ff.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_54da6790-6f33-4d33-b7ca-074003ddb9ff.jpg?v=1773969497",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/pump-systems/original-2-bottle-system_05_7-SmartMouth-Original-Mouthwash-16oz-scaled_3672e71b-132c-489c-b61a-4164d24e6993.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_3672e71b-132c-489c-b61a-4164d24e6993.jpg?v=1773969496",
+              "position": 5
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-original-2-bottle-activated-mouthwash-system"
         },
         {
           "sku": "SM-CLIN-PUMP",
-          "name": "SmartMouth™ Clinical 2-Bottle Activated Mouthwash System",
+          "name": "SmartMouth\u2122 Clinical 2-Bottle Activated Mouthwash System",
           "size": "2 bottles",
           "price": 24.99,
           "line": "Clinical",
           "keyBenefit": "Clinical formula in pump delivery system",
-          "packaging": "Dual chamber, snap-top closures (redesigned 2024)"
+          "packaging": "Dual chamber, snap-top closures (redesigned 2024)",
+          "images": [
+            {
+              "file": "brand/assets/images/pump-systems/clinical-2-bottle-system_01_1-SmartMouth-Clinical-Mouthwash-2-Bottle-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/1-SmartMouth-Clinical-Mouthwash-2-Bottle-scaled.jpg?v=1773969499",
+              "position": 1
+            },
+            {
+              "file": "brand/assets/images/pump-systems/clinical-2-bottle-system_02_2-SmartMouth-Clinical-Mouthwash-2-Bottle-scaled.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/2-SmartMouth-Clinical-Mouthwash-2-Bottle-scaled.jpg?v=1773969499",
+              "position": 2
+            },
+            {
+              "file": "brand/assets/images/pump-systems/clinical-2-bottle-system_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_5ad066a2-b0f1-4fb2-bb85-bd94375489b7.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/4-SmartMouth-Original-Mouthwash-16oz-scaled_5ad066a2-b0f1-4fb2-bb85-bd94375489b7.jpg?v=1773969499",
+              "position": 3
+            },
+            {
+              "file": "brand/assets/images/pump-systems/clinical-2-bottle-system_04_6-SmartMouth-Original-Mouthwash-16oz-scaled_71775d3f-8313-4fbe-a13c-66507ea65422.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/6-SmartMouth-Original-Mouthwash-16oz-scaled_71775d3f-8313-4fbe-a13c-66507ea65422.jpg?v=1773969499",
+              "position": 4
+            },
+            {
+              "file": "brand/assets/images/pump-systems/clinical-2-bottle-system_05_7-SmartMouth-Original-Mouthwash-16oz-scaled_16bd83dd-21e6-40ba-a213-bc49f4650cb8.jpg",
+              "src": "https://cdn.shopify.com/s/files/1/0888/4578/files/7-SmartMouth-Original-Mouthwash-16oz-scaled_16bd83dd-21e6-40ba-a213-bc49f4650cb8.jpg?v=1773969499",
+              "position": 5
+            }
+          ],
+          "shopifyHandle": "smartmouthtm-clinical-2-bottle-activated-mouthwash-system"
         }
       ]
     }
   },
-
   "pricingStrategy": {
     "tier": "Premium",
     "premiumVsMainstream": "20-40% above Listerine, Colgate baseline",
     "entryPoint": 3.99,
     "highestRetail": 59.99,
-    "mostPopular": ["SM-ORIG-16", "SM-CLIN-16", "SM-DRY-16"],
+    "mostPopular": [
+      "SM-ORIG-16",
+      "SM-CLIN-16",
+      "SM-DRY-16"
+    ],
     "guarantee": "60-day money-back satisfaction guarantee"
   }
 }

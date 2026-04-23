@@ -1,0 +1,728 @@
+[
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-32oz_01_Untitled-design-1-1-scaled_95061bdd-044d-4e84-911a-45a541e45397.png",
+    "size": 546515,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-32oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_07fe1092-bded-4b11-bfeb-5688426feb70.jpg",
+    "size": 92833,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-32oz_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_2b100567-3874-4a31-8752-c537446e73e7.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-32oz_04_5-SmartMouth-Original-Mouthwash-16oz-scaled_0fb48409-b17e-4211-be40-b1e06dad760e.jpg",
+    "size": 156355,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-32oz_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_160e4ff1-f74c-492f-a8fe-cbb53fc2b9f6.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-32oz_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_b7dd33e9-b1a2-46e7-ac6b-35959888b158.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-32oz_01_SM-OR-P-AZKHQ-US-ISP-scaled.png",
+    "size": 424401,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-32oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_54c5fe92-36a9-463c-8176-bc2e639bf938.jpg",
+    "size": 92833,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-32oz_03_3-SmartMouth-Original-Mouthwash-32oz-scaled.jpg",
+    "size": 96494,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-32oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_d44b51b3-b441-4062-96ae-46d22165dc26.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-32oz_05_5-SmartMouth-Original-Mouthwash-16oz-scaled_6b5b91fa-8c80-4b97-9161-a751e2d41b7f.jpg",
+    "size": 156355,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-32oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_319ca988-6c02-49ec-9f9b-80f318f20f4f.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-32oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_c589ad5b-b00b-49f9-ad35-23e088edbb2e.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "clinical-2-bottle-system_01_1-SmartMouth-Clinical-Mouthwash-2-Bottle-scaled.jpg",
+    "size": 89435,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "clinical-2-bottle-system_02_2-SmartMouth-Clinical-Mouthwash-2-Bottle-scaled.jpg",
+    "size": 42694,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "clinical-2-bottle-system_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_5ad066a2-b0f1-4fb2-bb85-bd94375489b7.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "clinical-2-bottle-system_04_6-SmartMouth-Original-Mouthwash-16oz-scaled_71775d3f-8313-4fbe-a13c-66507ea65422.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "clinical-2-bottle-system_05_7-SmartMouth-Original-Mouthwash-16oz-scaled_16bd83dd-21e6-40ba-a213-bc49f4650cb8.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "original-2-bottle-system_01_1-SmartMouth-Original-Mouthwash-2-Bottle-scaled.jpg",
+    "size": 77026,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "original-2-bottle-system_02_2-SmartMouth-Original-Mouthwash-2-Bottle-scaled.jpg",
+    "size": 42850,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "original-2-bottle-system_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_51beeb62-0818-48b4-94c4-f2bf7284cdd4.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "original-2-bottle-system_04_6-SmartMouth-Original-Mouthwash-16oz-scaled_54da6790-6f33-4d33-b7ca-074003ddb9ff.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "pump-systems",
+    "file": "original-2-bottle-system_05_7-SmartMouth-Original-Mouthwash-16oz-scaled_3672e71b-132c-489c-b61a-4164d24e6993.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mints",
+    "file": "dry-mouth-dual-action-mints_01_1-SmartMouth-Dry-Mouth-Mints-scaled.jpg",
+    "size": 56121,
+    "status": "OK"
+  },
+  {
+    "folder": "mints",
+    "file": "dry-mouth-dual-action-mints_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine_92c81ed6-d652-4f5b-8a3e-f8288e4658c1.png",
+    "size": 776179,
+    "status": "OK"
+  },
+  {
+    "folder": "mints",
+    "file": "dry-mouth-dual-action-mints_03_SM-XM-P-CMUEAT-US-ISP-scaled.jpg",
+    "size": 96946,
+    "status": "OK"
+  },
+  {
+    "folder": "mints",
+    "file": "dry-mouth-dual-action-mints_04_7-SmartMouth-Original-Mouthwash-16oz-scaled_527bb3f0-f03b-481f-a17b-6c54f0000909.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-6o_01_1-SmartMouth-Toothpaste-6oz-scaled.jpg",
+    "size": 48625,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-6o_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-5.png",
+    "size": 788349,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-6o_03_SM-P-LFGI-O-US-ISP-scaled_1a41d1a5-ee15-451a-90d1-b37ce355e4df.jpg",
+    "size": 117261,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-6o_04_7-SmartMouth-Original-Mouthwash-16oz-scaled_4f36439b-44ff-4a70-b5a2-b45729216108.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-34_01_1-SmartMouth-Toothpaste-3-4oz-scaled.jpg",
+    "size": 51661,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-34_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine.png",
+    "size": 505383,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-34_03_SM-P-LFGI-O-US-ISP-scaled.jpg",
+    "size": 117261,
+    "status": "OK"
+  },
+  {
+    "folder": "toothpaste",
+    "file": "anti-cavity-zinc-toothpaste-34_04_7-SmartMouth-Original-Mouthwash-16oz-scaled_61f135e5-9914-4e56-bb1e-567cc8ab46d0.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-single-packs-50-ct_01_1-SmartMouth-Dry-Mouth-Single-Packs-scaled.jpg",
+    "size": 81720,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-single-packs-50-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-3.png",
+    "size": 336412,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-single-packs-50-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_ad5a9b6b-7208-486f-9e90-5e81be6773e6.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-single-packs-50-ct_04_SM-DSP-P-T-L-RV-US-ISP-scaled.jpg",
+    "size": 106026,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-single-packs-50-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_2423806d-697f-42af-8b20-30c1d56157c2.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-single-packs-50-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_8cab3fa8-f7ca-40fd-ba85-bf143325e409.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-single-packs-50-ct_01_1-SmartMouth-Clinical-Single-Packs-scaled.jpg",
+    "size": 80307,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-single-packs-50-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-1.png",
+    "size": 604316,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-single-packs-50-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_9f19c8a2-554a-43a0-ab79-10ffbf9ea6f8.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-single-packs-50-ct_04_SM-ASP-P-BOHPP-US-ISP-1-scaled.jpg",
+    "size": 115126,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-single-packs-50-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_8951088a-1df5-4a58-814e-7b8db419115a.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-single-packs-50-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_9d4a919e-5d8d-41e2-bee2-f1ff79277899.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-50-ct_01_Original-Mouthwash-Single-Packs-Count-e1772777998458.png",
+    "size": 228677,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-50-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-2_8bd4a014-98e0-4a5b-9a78-c9a55bc2ab72.png",
+    "size": 401218,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-50-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_68cf910c-4c06-4db1-bed7-d27b5c425e58.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-50-ct_04_SM-P-LOQVUM-US-ISP-scaled_8329484d-0325-48ac-bf09-2e938e11839b.jpg",
+    "size": 108430,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-50-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_7c71b3a4-1b83-4e46-bec1-4b8ae82dc756.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-50-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_9daf5468-50eb-4d5c-966c-8cc4364b640a.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-10-ct_01_1-SmartMouth-Original-Single-Packs-scaled.jpg",
+    "size": 97227,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-10-ct_02_Providing-Dentists-Dental-Hygienists-With-Science-For-Smarter-Oral-Care-The-Results-Are-In-SmartMouth-Is-As-Effective-As-Chlorhexidine-1-2.png",
+    "size": 401218,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-10-ct_03_4-SmartMouth-Original-Mouthwash-16oz-scaled_efa809d3-afbd-4406-b281-7346136b0c36.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-10-ct_04_SM-P-LOQVUM-US-ISP-scaled.jpg",
+    "size": 108430,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-10-ct_05_6-SmartMouth-Original-Mouthwash-16oz-scaled_8532ac4d-ce84-4729-97d7-98f877a16787.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-single-packs-10-ct_06_7-SmartMouth-Original-Mouthwash-16oz-scaled_ffec7c61-48f2-4f0f-8f77-7e62bdae74c3.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-mouth-sore",
+    "file": "mouth-sore-16oz_01_1-SmartMouth-Mouth-Sore-Mouthwash-16oz-scaled.jpg",
+    "size": 70192,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-mouth-sore",
+    "file": "mouth-sore-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_d2909c25-15ec-4893-b8cd-0b8f51eb4d87.jpg",
+    "size": 92833,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-mouth-sore",
+    "file": "mouth-sore-16oz_03_Untitled-design_9712ccf1-9e47-4d10-94f7-b19cdce22b75.png",
+    "size": 906616,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-mouth-sore",
+    "file": "mouth-sore-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_82a36652-8dfa-4ca7-ab10-d453ee89ef74.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-mouth-sore",
+    "file": "mouth-sore-16oz_05_Untitled-design-1-2.png",
+    "size": 1052290,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-mouth-sore",
+    "file": "mouth-sore-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_0a807dfd-581b-4776-93c0-f23f73824be0.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-mouth-sore",
+    "file": "mouth-sore-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_822db73a-5e75-4883-9252-e8a2ddae4683.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-gum-health",
+    "file": "gum-health-16oz_01_1-SmartMouth-Gum-Health-Mouthwash-16oz-scaled.jpg",
+    "size": 66962,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-gum-health",
+    "file": "gum-health-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_c80be3ea-e238-47a2-9209-361c17461859.jpg",
+    "size": 92833,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-gum-health",
+    "file": "gum-health-16oz_03_Untitled-design.png",
+    "size": 111580,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-gum-health",
+    "file": "gum-health-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_733683b2-2737-4aad-b5f5-063f7b004d65.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-gum-health",
+    "file": "gum-health-16oz_05_SM-HR-P-VGGOVP-US-ISP-1-scaled.jpg",
+    "size": 147779,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-gum-health",
+    "file": "gum-health-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_776e634e-f338-4235-86cc-de23c49ff53b.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-gum-health",
+    "file": "gum-health-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_8181c92d-86d9-4aa3-a68e-006735cc343a.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_01_Evening.png",
+    "size": 471820,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_02_SM-large-3.jpg",
+    "size": 197431,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_03_SM-large-1-9.jpg",
+    "size": 490815,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_04_Evening.jpg",
+    "size": 178382,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_05_SM-large-1-7.jpg",
+    "size": 252347,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_06_SM-large-1-2_703977ca-6b2d-4048-88ad-2a8668c2d0fb.jpg",
+    "size": 204916,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_07_6-SmartMouth-Original-Mouthwash-16oz-scaled_4c5cea7b-213e-4a58-90a8-cad4cdb42876.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_08_SM-large-1-8.jpg",
+    "size": 146257,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-evening-16o_09_SM-large_2c7f0dbf-37d1-47f1-8ee2-ef4781e8a48c.jpg",
+    "size": 210789,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_01_Morning.png",
+    "size": 498061,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_02_SM-large-2.jpg",
+    "size": 250517,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_03_SM-large-1-6.jpg",
+    "size": 460449,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_04_Morning.jpg",
+    "size": 222002,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_05_SM-large-1-5.jpg",
+    "size": 240220,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_06_SM-large-1-2_f2e476e9-fbe7-4f40-b057-a1fcb4765cf4.jpg",
+    "size": 204916,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_07_6-SmartMouth-Original-Mouthwash-16oz-scaled_5d4845dd-1d1b-4bb7-b216-d4873781c622.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_08_SM-large-1-4.jpg",
+    "size": 248515,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-morning-16o_09_SM-large_b6eecaa0-fb6f-44cf-82e2-8e40cf898617.jpg",
+    "size": 210789,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_01_Vitamin-C.png",
+    "size": 345845,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_02_SM-large.jpg",
+    "size": 155646,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_03_SM-large-1.jpg",
+    "size": 507441,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_04_Vitamin-C.jpg",
+    "size": 187346,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_05_SM-large-1-1.jpg",
+    "size": 223324,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_06_SM-large-1-2.jpg",
+    "size": 204916,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_07_6-SmartMouth-Original-Mouthwash-16oz-scaled_0b443eca-c0bf-411f-b0f0-d8cb0becbe64.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_08_SM-large-1-3.jpg",
+    "size": 203400,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-liposomal",
+    "file": "advanced-liposomal-vitamin-c-1_09_SM-large_02fb199c-af2c-4e00-a937-13d7c6024972.jpg",
+    "size": 210789,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-16oz_01_SmartMouth-Dry-Mouth-Mouthwash-oz-scaled-1-scaled.jpg",
+    "size": 63047,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_957c5506-6a09-4681-9e4e-cadc83270ceb.jpg",
+    "size": 92833,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-16oz_03_SM-DR-P-W-FEH-US-ISP-1-scaled.jpg",
+    "size": 104682,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_82de28c3-2518-4f89-91d8-d403a47443fd.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-16oz_05_SM-DR-P-W-FEH-US-ISP-scaled.jpg",
+    "size": 142324,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_60b09d0f-9eaf-42cf-84d8-bb93bb43d46f.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-dry-mouth",
+    "file": "dry-mouth-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_e629e035-5f76-4838-9252-d01dfca86955.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-16oz_01_Untitled-design-1-4.png",
+    "size": 408165,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled_a5c48591-2905-4907-9626-fffe25f816c3.jpg",
+    "size": 92833,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-16oz_03_SM-AR-P-KWLAVB-US-ISP-1-scaled.jpg",
+    "size": 109692,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled_a2608ec1-7759-4a9b-a3b6-66bbb0da5f7e.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-16oz_05_SM-P-ULWYWH-US-ISP-scaled.jpg",
+    "size": 144535,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled_accd8b4d-7c8b-484a-8c9d-ab414833a5a2.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-clinical",
+    "file": "clinical-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled_62f3a8c8-92db-4b01-b917-fdbabdcd74da.jpg",
+    "size": 246124,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-16oz_01_Untitled-design-1-5.png",
+    "size": 471260,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-16oz_02_2-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+    "size": 92833,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-16oz_03_3-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+    "size": 102079,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-16oz_04_4-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+    "size": 126387,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-16oz_05_5-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+    "size": 156355,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-16oz_06_6-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+    "size": 110161,
+    "status": "OK"
+  },
+  {
+    "folder": "mouthwash-original",
+    "file": "original-16oz_07_7-SmartMouth-Original-Mouthwash-16oz-scaled.jpg",
+    "size": 246124,
+    "status": "OK"
+  }
+]
