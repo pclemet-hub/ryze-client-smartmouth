@@ -1,0 +1,246 @@
+{
+  "brand": "SmartMouth",
+  "catalogDate": "2026-04-23",
+  "currency": "USD",
+  "totalSKUs": 22,
+  "primaryFlavor": "Clean Mint",
+
+  "lines": {
+    "mouthwash": {
+      "description": "Core product category. Dual-chamber activated system. All mouthwashes use zinc ion technology.",
+      "products": [
+        {
+          "sku": "SM-ORIG-16",
+          "name": "SmartMouth™ Original Activated Mouthwash",
+          "size": "16oz",
+          "price": 10.99,
+          "line": "Original",
+          "flavor": "Clean Mint",
+          "keyBenefit": "Baseline 24-hour fresh breath, eliminates VSCs",
+          "alcohol": false,
+          "highlights": ["Zinc ion technology", "24-hour protection", "2 rinses/day"]
+        },
+        {
+          "sku": "SM-ORIG-32",
+          "name": "SmartMouth™ Original Activated Mouthwash",
+          "size": "32oz",
+          "price": 19.99,
+          "line": "Original",
+          "flavor": "Clean Mint",
+          "keyBenefit": "Baseline 24-hour fresh breath — family size",
+          "alcohol": false
+        },
+        {
+          "sku": "SM-CLIN-16",
+          "name": "SmartMouth™ Clinical Activated Mouthwash",
+          "size": "16oz",
+          "price": 13.99,
+          "line": "Clinical",
+          "flavor": "Clean Mint",
+          "keyBenefit": "Enhanced formula for more advanced bad breath concerns",
+          "alcohol": false,
+          "highlights": ["Stronger zinc ion concentration", "Plaque and gingivitis reduction", "Dentist recommended"]
+        },
+        {
+          "sku": "SM-CLIN-32",
+          "name": "SmartMouth™ Clinical Activated Mouthwash",
+          "size": "32oz",
+          "price": 24.99,
+          "line": "Clinical",
+          "flavor": "Clean Mint",
+          "keyBenefit": "Clinical formula — family/long-term use size",
+          "alcohol": false
+        },
+        {
+          "sku": "SM-CLIN-DDS",
+          "name": "SmartMouth™ Clinical DDS Oral Rinse",
+          "size": "16oz",
+          "price": null,
+          "priceNote": "Professional/Rx channel — contact dental partners",
+          "line": "Clinical DDS",
+          "flavor": "Clean Mint",
+          "keyBenefit": "Prescription-strength. Outperformed chlorhexidine in clinical trials for staining, taste, and patient compliance.",
+          "alcohol": false,
+          "channel": "Dental professional only — partners.smartmouth.com",
+          "highlights": ["Outperformed chlorhexidine (study: Oral Health and Preventive Dentistry)", "Less tooth staining than CHX", "Higher patient compliance"]
+        },
+        {
+          "sku": "SM-DRY-16",
+          "name": "SmartMouth™ Dry Mouth Activated Mouthwash",
+          "size": "16oz",
+          "price": 11.99,
+          "line": "Specialized",
+          "flavor": "Clean Mint",
+          "keyBenefit": "Eliminates bad breath + relieves dry mouth symptoms",
+          "alcohol": false,
+          "targetCondition": "Dry mouth (xerostomia) — often caused by medications, aging, or medical conditions"
+        },
+        {
+          "sku": "SM-SORE-16",
+          "name": "SmartMouth™ Mouth Sore Activated Mouthwash",
+          "size": "16oz",
+          "price": 12.99,
+          "line": "Specialized",
+          "flavor": "Clean Mint",
+          "keyBenefit": "Fresh breath + mouth sore healing support",
+          "alcohol": false,
+          "targetCondition": "Canker sores, post-procedure healing, chemotherapy patients"
+        },
+        {
+          "sku": "SM-GUM-16",
+          "name": "SmartMouth™ Gum Health Activated Mouthwash",
+          "size": "16oz",
+          "price": 13.99,
+          "line": "Specialized",
+          "flavor": "Clean Mint",
+          "ingredients": ["Natural aloe"],
+          "keyBenefit": "Fresh breath + gum health support (anti-inflammatory aloe)",
+          "alcohol": false,
+          "targetCondition": "Gingivitis, bleeding gums, early gum disease"
+        },
+        {
+          "sku": "SM-LIP-VIT-16",
+          "name": "SmartMouth™ Advanced Liposomal Vitamin C Mouthwash",
+          "size": "16oz",
+          "price": 13.99,
+          "line": "Advanced Liposomal",
+          "flavor": "Clean Mint",
+          "technology": "Liposomal delivery for enhanced absorption",
+          "keyBenefit": "Fresh breath + Vitamin C gum support via liposomal technology",
+          "alcohol": false
+        },
+        {
+          "sku": "SM-LIP-AM-16",
+          "name": "SmartMouth™ Advanced Liposomal Morning Mouthwash",
+          "size": "16oz",
+          "price": 13.99,
+          "line": "Advanced Liposomal",
+          "flavor": "Clean Mint",
+          "technology": "Liposomal delivery, AM-optimized formula",
+          "keyBenefit": "Fresh start to the day — morning-specific zinc ion activation",
+          "alcohol": false
+        },
+        {
+          "sku": "SM-LIP-PM-16",
+          "name": "SmartMouth™ Advanced Liposomal Evening Mouthwash",
+          "size": "16oz",
+          "price": 13.99,
+          "line": "Advanced Liposomal",
+          "flavor": "Clean Mint",
+          "technology": "Liposomal delivery, PM-optimized formula",
+          "keyBenefit": "Overnight protection — extends fresh breath through sleep",
+          "alcohol": false
+        }
+      ]
+    },
+
+    "toothpaste": {
+      "description": "Zinc ion technology extended to toothpaste. Anti-cavity + fresh breath.",
+      "products": [
+        {
+          "sku": "SM-TP-3.4",
+          "name": "SmartMouth™ Anti-Cavity + Zinc Toothpaste",
+          "size": "3.4oz",
+          "price": 7.99,
+          "flavor": "Clean Mint",
+          "keyBenefit": "Cavity protection + zinc ion fresh breath in one step",
+          "highlights": ["Fluoride cavity protection", "Zinc ion breath protection", "No harsh additives"]
+        },
+        {
+          "sku": "SM-TP-6",
+          "name": "SmartMouth™ Anti-Cavity + Zinc Toothpaste",
+          "size": "6oz",
+          "price": 9.99,
+          "flavor": "Clean Mint",
+          "keyBenefit": "Cavity protection + zinc ion fresh breath — larger size"
+        }
+      ]
+    },
+
+    "mints": {
+      "description": "On-the-go breath support with dual-action dry mouth relief.",
+      "products": [
+        {
+          "sku": "SM-MINT-DA",
+          "name": "SmartMouth™ Dry Mouth Dual-Action Mints",
+          "size": "Standard pack",
+          "price": 3.99,
+          "flavor": "Mint",
+          "keyBenefit": "On-the-go dry mouth relief + fresh breath",
+          "targetCondition": "Dry mouth, travel, between-rinse freshness"
+        }
+      ]
+    },
+
+    "singlePacks": {
+      "description": "Individual-use packs. Great for travel, sampling, or gifting.",
+      "products": [
+        {
+          "sku": "SM-ORIG-SP-10",
+          "name": "SmartMouth™ Original Activated Mouthwash Single Packs",
+          "count": 10,
+          "price": 8.99,
+          "line": "Original",
+          "keyBenefit": "Travel-friendly, trial size, hotel amenity use"
+        },
+        {
+          "sku": "SM-ORIG-SP-50",
+          "name": "SmartMouth™ Original Activated Mouthwash Single Packs",
+          "count": 50,
+          "price": 44.99,
+          "line": "Original",
+          "keyBenefit": "Bulk travel packs, B2B amenity fulfillment"
+        },
+        {
+          "sku": "SM-CLIN-SP-50",
+          "name": "SmartMouth™ Clinical Activated Mouthwash Single Packs",
+          "count": 50,
+          "price": 59.99,
+          "line": "Clinical",
+          "keyBenefit": "Clinical single-use, dental office distribution"
+        },
+        {
+          "sku": "SM-DRY-SP-50",
+          "name": "SmartMouth™ Dry Mouth Activated Mouthwash Single Packs",
+          "count": 50,
+          "price": 54.99,
+          "line": "Dry Mouth",
+          "keyBenefit": "Bulk dry mouth relief packs"
+        }
+      ]
+    },
+
+    "pumpSystems": {
+      "description": "2-bottle pump system — the iconic SmartMouth delivery method. Redesigned 2024: no more assembly, snap-top closures.",
+      "products": [
+        {
+          "sku": "SM-ORIG-PUMP",
+          "name": "SmartMouth™ Original 2-Bottle Activated Mouthwash System",
+          "size": "2 bottles",
+          "price": 21.99,
+          "line": "Original",
+          "keyBenefit": "Classic pump delivery system. Satisfying activation experience.",
+          "packaging": "Dual chamber, snap-top closures (redesigned 2024 — no assembly required)"
+        },
+        {
+          "sku": "SM-CLIN-PUMP",
+          "name": "SmartMouth™ Clinical 2-Bottle Activated Mouthwash System",
+          "size": "2 bottles",
+          "price": 24.99,
+          "line": "Clinical",
+          "keyBenefit": "Clinical formula in pump delivery system",
+          "packaging": "Dual chamber, snap-top closures (redesigned 2024)"
+        }
+      ]
+    }
+  },
+
+  "pricingStrategy": {
+    "tier": "Premium",
+    "premiumVsMainstream": "20-40% above Listerine, Colgate baseline",
+    "entryPoint": 3.99,
+    "highestRetail": 59.99,
+    "mostPopular": ["SM-ORIG-16", "SM-CLIN-16", "SM-DRY-16"],
+    "guarantee": "60-day money-back satisfaction guarantee"
+  }
+}

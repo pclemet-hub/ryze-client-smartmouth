@@ -1,0 +1,92 @@
+{
+  "name": "SmartMouth Design Tokens — Typography",
+  "version": "1.0.0",
+  "updated": "2026-04-23",
+  "description": "Clean, modern sans-serif hierarchy. Scientific credibility without coldness. Monospace reserved for clinical data and technical specs only.",
+
+  "fontStack": {
+    "primary": {
+      "family": "Inter, 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+      "usage": "All headings, body copy, UI elements",
+      "character": "Clean, modern, highly legible — conveys professionalism without being stiff"
+    },
+    "monospace": {
+      "family": "'IBM Plex Mono', 'Fira Code', 'Courier New', monospace",
+      "usage": "Clinical percentages, scientific callouts, ingredient data, technical specs",
+      "character": "Precision, clinical accuracy"
+    }
+  },
+
+  "scale": {
+    "display": {
+      "size": "48px",
+      "lineHeight": "1.1",
+      "fontWeight": "700",
+      "letterSpacing": "-0.02em",
+      "usage": "Hero headlines: 'Never Have Bad Breath', primary campaign messages"
+    },
+    "h1": {
+      "size": "36px",
+      "lineHeight": "1.2",
+      "fontWeight": "700",
+      "letterSpacing": "-0.01em",
+      "usage": "Page titles, section anchors"
+    },
+    "h2": {
+      "size": "28px",
+      "lineHeight": "1.3",
+      "fontWeight": "600",
+      "letterSpacing": "-0.01em",
+      "usage": "Section headings, product line titles"
+    },
+    "h3": {
+      "size": "22px",
+      "lineHeight": "1.4",
+      "fontWeight": "600",
+      "letterSpacing": "0",
+      "usage": "Card titles, feature names, product names"
+    },
+    "h4": {
+      "size": "18px",
+      "lineHeight": "1.4",
+      "fontWeight": "600",
+      "letterSpacing": "0",
+      "usage": "Sub-features, list headings"
+    },
+    "body-lg": {
+      "size": "18px",
+      "lineHeight": "1.6",
+      "fontWeight": "400",
+      "usage": "Primary body copy, introductory paragraphs"
+    },
+    "body": {
+      "size": "16px",
+      "lineHeight": "1.6",
+      "fontWeight": "400",
+      "usage": "Standard body text, product descriptions"
+    },
+    "body-sm": {
+      "size": "14px",
+      "lineHeight": "1.5",
+      "fontWeight": "400",
+      "usage": "Secondary information, metadata, fine print"
+    },
+    "caption": {
+      "size": "12px",
+      "lineHeight": "1.4",
+      "fontWeight": "400",
+      "usage": "Image captions, legal disclaimers, source citations",
+      "fontFamily": "monospace (for clinical context)"
+    },
+    "overline": {
+      "size": "11px",
+      "lineHeight": "1.4",
+      "fontWeight": "600",
+      "letterSpacing": "0.12em",
+      "textTransform": "uppercase",
+      "usage": "Category labels, product line labels, badge text"
+    }
+  },
+
+  "notes": "Avoid decorative or serif typefaces — they undercut the clinical credibility positioning. Headlines should be direct and bold. Body copy should be highly readable at small sizes."
+}

@@ -1,0 +1,78 @@
+{
+  "name": "SmartMouth Design Tokens — Colors",
+  "version": "1.0.0",
+  "updated": "2026-04-23",
+  "description": "SmartMouth uses a unique dual-color activation system as a core brand differentiator. Green = freshly activated (zinc ions active). Blue = post-activation. White dominates for clinical trustworthiness.",
+
+  "primary": {
+    "activation-green": {
+      "value": "#4CAF50",
+      "hex": "#4CAF50",
+      "rgb": "76, 175, 80",
+      "usage": "Primary action states, CTAs, freshly activated product visualization, success states",
+      "brand-meaning": "Represents the moment of zinc ion activation — product is working at full strength"
+    },
+    "efficacy-blue": {
+      "value": "#2196F3",
+      "hex": "#2196F3",
+      "rgb": "33, 150, 243",
+      "usage": "Secondary states, information panels, post-activation product visualization",
+      "brand-meaning": "Represents the continued zinc ion protection after initial activation"
+    },
+    "clinical-white": {
+      "value": "#FFFFFF",
+      "hex": "#FFFFFF",
+      "rgb": "255, 255, 255",
+      "usage": "Primary backgrounds, dominant surface color, product photography backgrounds",
+      "brand-meaning": "Clinical cleanliness, trust, oral health"
+    }
+  },
+
+  "neutrals": {
+    "text-primary": {
+      "value": "#212121",
+      "hex": "#212121",
+      "usage": "Body copy, headings, primary text"
+    },
+    "text-secondary": {
+      "value": "#616161",
+      "hex": "#616161",
+      "usage": "Supporting copy, captions, metadata"
+    },
+    "border": {
+      "value": "#E0E0E0",
+      "hex": "#E0E0E0",
+      "usage": "Dividers, card borders, input borders"
+    },
+    "surface-hover": {
+      "value": "#F5F5F5",
+      "hex": "#F5F5F5",
+      "usage": "Hover states, alternate row backgrounds, subtle panels"
+    },
+    "surface-card": {
+      "value": "#FAFAFA",
+      "hex": "#FAFAFA",
+      "usage": "Card backgrounds, section backgrounds"
+    }
+  },
+
+  "semantic": {
+    "success": "#4CAF50",
+    "info": "#2196F3",
+    "warning": "#FF9800",
+    "error": "#F44336"
+  },
+
+  "gradients": {
+    "activation-fade": {
+      "value": "linear-gradient(135deg, #4CAF50 0%, #2196F3 100%)",
+      "usage": "Hero sections, activation visualization, premium product callouts"
+    },
+    "green-fade": {
+      "value": "linear-gradient(180deg, #4CAF50 0%, #81C784 100%)",
+      "usage": "Subtle green backgrounds for feature sections"
+    }
+  },
+
+  "notes": "SmartMouth's green-to-blue color shift is a signature brand element — their mouthwash literally turns from green to blue as zinc ions activate. Use this visual metaphor in animations and state transitions."
+}
